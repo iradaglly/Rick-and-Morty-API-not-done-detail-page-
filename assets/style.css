@@ -1,0 +1,23 @@
+.navbar{
+margin-left: 50px;
+
+}
+header{
+border-bottom: 1px solid lightgray;
+background-color: #f8f9fa
+}
+.row{
+    padding-top: 25px;
+}
+main{
+    background-color: rgb(223, 219, 219)
+}
+.card p{
+    margin-bottom: 0;
+}
+.card{
+    margin-bottom: 20px;
+}
+input{
+    margin-left: 10px;
+}
